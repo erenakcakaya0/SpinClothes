@@ -1,0 +1,14 @@
+Scene adını değiştirdiğimde scene yok oluyordu. O yuzden ilk scene'nin adını değiştiremedim.
+
+Modellerim olmadığı için basic şekiller üzerine mekanikleri yazmaya çalıştım.
+
+ÖNEMLİ ***Export ettikten sonra scene'ler build settings'ten siliniyor şu sıra ile yerleştirilmesi yetiyor.***
+-SampleSceneb / Scene1 / Scene2
+
+******////// Modeller \\\\\\******
+Renkli ince kareler --> Kıyafet
+Çubuk üzerinde yuvarlak --> Raf
+Kırmızı dikdörtgen --> Duvar engeli
+Silindir engel --> Silindir engel
+T Boru --> Boru
+Sarımtırak dikdörtgen --> Makas
